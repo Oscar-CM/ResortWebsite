@@ -1,0 +1,15 @@
+h1{
+  color: skyblue;
+  background-color: gray;
+  text-align: center;
+}
+body{
+  background-color: grey;
+  text-align: center;
+  text-decoration-color: black;
+
+}
+ol {
+  font-style: italic;
+  color: red
+}
