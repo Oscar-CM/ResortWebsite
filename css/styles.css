@@ -3,6 +3,13 @@ h1{
   background-color: gray;
   text-align: center;
 }
-h2{
+body{
+  background-color: grey;
+  text-align: center;
+  text-decoration-color: black;
 
+}
+ol {
+  font-style: italic;
+  color: pink;
 }
